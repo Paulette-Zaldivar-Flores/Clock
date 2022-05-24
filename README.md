@@ -42,11 +42,14 @@
 
 ## Acknowledgements
  
-  <ul><li>This project was inspired by  Wes Bos (https://javascript30.com/)</li></ul>
+  <ul><li>This project was developed following a tutorial by <a href="https://javascript30.com/">Wes Bos</a> </li>
+    <li>This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a></li></ul>
+
+
 
 
 ## Contact
-Created by [@Void321](https://pzf.netlify.app/) - feel free to contact me!
+Created by [Paulette](https://pzf.netlify.app/) - feel free to contact me!
 
 
 
