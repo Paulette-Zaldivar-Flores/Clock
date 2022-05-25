@@ -13,7 +13,7 @@
 
 
 ## General Information
-<ul><li>The goal of this project was to parcatice my JavaScript skills</li></ul>
+<ul><li>The goal of this project was to create a clock using pure JavaScript </li></ul>
 
 
 ## Technologies Used
