@@ -1,7 +1,7 @@
 # CSS/JS Clock 
 
 > A simple clock developed with CSS and JavaScript
-> Live demo [_here_](void321.github.io/clock/).
+> Live demo [_here_](paulette-zaldivar-flores.github.io/clock/).
 
 ## Table of Contents
 * [General Info](#general-information)
